@@ -177,10 +177,10 @@ body::-webkit-scrollbar-track {
     border-radius: 20%;
 }
 .item>img{
-    border-radius: 20%;
-    border-style: double;
-    border-width: 8px;
-    border-color: rgb(255, 225, 55);
+        border-radius: 10%;
+        border-style: double;
+        border-width: 3px;
+        border-color: gold;
 }
 .hr{
     border-right-width: 10vw;
@@ -212,9 +212,9 @@ body::-webkit-scrollbar-track {
         margin: 20px;
     }
     .item>img{
-        border-radius: 20%;
+        border-radius: 10%;
         border-style: double;
-        border-width: 8px;
+        border-width: 3px;
         border-color: gold;
         flex-grow: 1;
     }
